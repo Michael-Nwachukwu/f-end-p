@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useWalletConnection } from './hooks/useWalletConnect';
 
 const ConnectWallet = () => {
